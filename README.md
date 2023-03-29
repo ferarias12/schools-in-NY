@@ -1,2 +1,2 @@
-# schools-in-NY
-Análisis en SQL de escuelas de Nueva York (Ejemplo práctico de Data Camp)
+# Schools-in-NY
+Analyzing NYC Public School Test Scores with SQL and Python (DataCamp exercises)
